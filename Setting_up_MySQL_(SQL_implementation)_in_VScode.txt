@@ -1,0 +1,42 @@
+Setting up MySQL (SQL implementation) in VScode (in Windows):
+There are a few steps to do this:
+1. Open Visual Studio Code and Install the 'MySQL'(SQL implementation) Extension, by Jun Han. 
+
+
+2. Download MySQL (SQL implementation) via the official MySQL website: https://www.mysql.com/downloads/ (MySQL)
+
+
+3. Follow the steps in this video which contains clear instructions to download MySQL (SQL implementation) from 
+   the official MySQL website: https://youtu.be/Rm0xH2Vpfi0?si=QVr3mUdqUGLHN84R (codebasics) (Youtube video titled: 
+   'SQL Tutorial for Beginners | MySQL Tutorial', but just watch from 0:00 to 4:30 of the video, which explains 
+   how to download MySQL (SQL implementation) from the official MySQL website)
+
+   (IMPORTANT NOTE: 
+   One thing that you need to do differently from the video is that, at 3:33, the video is at the 'Authetication 
+   Method' page of the MySQL (SQL implementation) installation process. 
+   
+   Instead of immediately skipping to the next page of the installation process as shown by the video, check the 
+   other box in this 'Authetication Method' page of the MySQL (SQL implementation) installation process, 'Use 
+   Legacy Authentication Method'. This action was not shown in the video.
+
+   This is because, in step 4, if this action is done, attempt to establish a connection link between VScode and 
+   MySQL connections/servers (which stores databases) will fail, and you will get this error in VScode:
+   Error: 'ER_NOT_SUPPORTED_AUTH_MODE'. But by doing this action, you will be able to troubleshoot this bug.
+   
+   Source: https://superuser.com/questions/1438960/error-er-supported-auth-mode-client-does-not-support-authentication-protocal-r
+   (superuser)
+   )
+
+   Once you have managed to successfully download MySQL (SQL implementation), a MySQL-specific MySQL (SQL 
+   implementation) server management tool/IDE/application will pop up, called 'MySQL Workbench', which is where you 
+   can not only work with databases in MySQL (SQL implementation) connections/servers (which stores databases), but 
+   also view/create/edit/manage MySQL (SQL implementation) connections/servers (which stores databases).
+
+
+
+4. After downloading MySQL (SQL implementation), in order to establish a connection link between VScode and 
+   MySQL connections/servers (which stores databases), you can follow the steps in this website, which contains
+   clear instructions to establish a connection link between VScode and MySQL connections/servers (which stores 
+   databases): https://guidingcode.com/use-mysql-with-visual-studio-code/ (GuidingCode) (just see 'Step 3' in
+   this website will do)
+

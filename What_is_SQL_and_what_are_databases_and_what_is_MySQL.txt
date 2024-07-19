@@ -1,0 +1,194 @@
+What is SQL?
+SQL stands for Structured Query Language, and it is a standard language for accessing and manipulating 
+(mostly) Relational Databases (aka SQL Databases) (more on what this is in the next section 'What are 
+Databases').
+
+SQL is not considered a full-fledged, general-purpose programming language like Python, Java, C# or C++. 
+Instead, it is a specialized query language designed specifically for managing and manipulating (mostly) 
+Relational Databases (aka SQL Databases) (more on what this is in the next section 'What are Databases').
+
+Source: https://www.geeksforgeeks.org/what-is-sql/ (GeekforGeeks)
+ 
+
+What is a query (in the context of SQL)?
+A query (in the context of SQL) is a series of SQL commands/keywords used to access and manipulate databases.
+
+Source: https://learnsql.com/blog/what-is-sql-query/ (LearnSQL)
+
+
+What is a query language?
+A query language is a type of computer language used to make queries in databases and information systems.
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+What are SQL implementations and SQL dialects?
+SQL implementations refer to database management systems (refer to the section 'What are Database Management 
+Systems (DBMS)?' below) that uses SQL, and provide the capability to access and manipulate (mostly) Relational 
+Databases (aka SQL Databases) (more on what this is in the next section 'What are Databases').
+
+However in these SQL implementations, most of them uses a form of variation of the 'standard SQL' (see the 
+note section 'What is 'standard SQL'?' below ). These forms of variation of SQL used in these SQL implementations 
+are called SQL dialects.
+
+Common SQL implementations and the respective SQL dialects used:
+1. MySQL (SQL dialect used: MySQL SQL)
+2. PostgreSQL (SQL dialect used: PostgreSQL SQL (similar to standard SQL))
+3. Microsoft (MS) SQL (SQL dialect used: T-SQL (Transact-SQL))
+4. Oracle (SQL dialect used: Oracle SQL)
+5. Db2 (SQL dialect used: Db2 SQL)
+6. MariaDB (SQL dialect used: similar to MySQL SQL)
+7. SQLite (SQL dialect used: SQLite SQL)
+
+(Note: 
+- What is 'standard SQL'?
+  'Standard SQL', aka ANSI SQL or IS SQL, refers to the standardized version of SQL that has been agreed upon by 
+  the Americans National Standard (ANSI). 'Standard SQL' can be thought as the parent SQL for all the other 
+  SQL dialects.
+
+- There exists a few SQL implementations that can be used for other types of Databases other than Relational 
+  Databases (aka SQL Databases) (e.g. Non-Relational Databases (aka NoSQL Databases or 'Not only SQL' Databases)
+  and NewSQL Databases), but it is only a few of them. Majority of SQL implementations are used for Relational
+  Databases (aka SQL Databases)
+
+- SQLite is a little different from the other common SQL implementations. All other common SQL implementations
+  require SQL connections/servers, storing the (mostly) Relational Databases (more on what this is in the next 
+  section 'What are Databases'), while SQLite does not require SQL connections/servers (server-less), but rather, 
+  makes use of embedded databases (i.e. the database is stored in a '.db' file and is in the same folder/application 
+  as the SQL queries files))
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+What are Databases?
+A Database is an organized collection of data stored in a computer system and is controlled by a Database 
+Management System (DBMS). 
+
+Source: https://www.geeksforgeeks.org/what-is-database/ (GeekforGeeks)
+
+
+
+What are some types of databases?
+There are many types of databases, however, in this tutorial, I will only be listing 3 of the most common/recognised
+ones:
+1. Relational Databases (aka SQL Databases) 
+   - Relational Databases have their data arranged as a collection of tables with rows and columns. 
+
+2. Non-Relational Databases (aka NoSQL Databases or 'Not only SQL' Databases) 
+   - Non-Relational Databases have their data arranged in a unstructured/semi-structured manner. 
+   
+     Non-Relational Databases are designed to handle and store large volumes of data. Unlike traditional Relational 
+     Databases that use tables with pre-defined schemas to store data, Non-Relational Databases use flexible data 
+     models that can adapt to changes in data structures and are capable of scaling horizontally to handle growing 
+     amounts of data.
+
+   - There are a few subtypes of Non-Relational Databases (aka NoSQL Databases or 'Not only SQL' Databases):
+     -> Graph-based: These Non-Relational Databases store data as nodes and edges, and are designed to handle 
+                     complex relationships between data.
+     -> Key-value-based: These Non-Relational Databases store data as key-value pairs, and are optimized for simple 
+                         and fast read/write operations.
+     -> Column-based: These Non-Relational Databases store data as column families, which are sets of columns that 
+                      are treated as a single entity. They are optimized for fast and efficient querying of large 
+                      amounts of data.
+     -> Document-based: These Non-Relational Databases store data as semi-structured documents, such as JSON or XML, and can be 
+                        queried using document-oriented query languages.
+
+3. NewSQL Database 
+   - NewSQL combines the scalability and availability of Non-Relational Databases with the consistency and 
+     usability of Relational Databases. 
+
+
+(Note: There are many other types of Databases such as Object-oriented Databases, Distributed Databases, Open 
+ Source Databases, Graph Databases, etc. But these other types of Databases aren't very common, so I won't be 
+ talking about them in this tutorial)
+
+
+Source(s): 
+https://www.geeksforgeeks.org/what-is-database/ (GeekforGeeks) (for the different types of databases)
+https://www.geeksforgeeks.org/introduction-to-nosql/ (GeekforGeeks) (for the definition of NoSQL Database)
+https://blog.leanxcale.com/distributed-database-concepts/newsql-databases/ (Leanxcale) (for the definition of NewSQL
+Database)
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Dataset vs Dataframe vs Database
+
+A Dataset is a collection of related data, typically in tabular form, where data is organized into rows and columns.
+ 
+A Dataframe is a two-dimensional, size-mutable, and potentially heterogeneous tabular data structure with labeled axes 
+(rows and columns). It is a key data structure in data analysis libraries such as Pandas in Python and DataFrame in R.
+
+A Database is an organized collection of data, generally stored and accessed electronically from a computer system. 
+Databases are managed by Database Management Systems (DBMS).
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+What are Database Management Systems (DBMS)?
+Database Management Systems (DBMS) are softwares that allows users, developers and software applications to interact
+with databases. DBMS usually use some form of query language to allow users, developers and software applications to 
+interact with databases.
+
+There are many softwares that are DBMSes, with the respective query language used, including:
+- The SQL implementations (see the above section 'What are SQL implementations and SQL dialects?' for what 
+  these DBMS are and their respective query language)
+- MongoDB (query language used is distinct and designed specifically for MongoDB)
+- Redis (query language used is distinct and designed specifically for Redis)
+- etc.
+
+
+What Database Management Systems (DBMS) uses Relational Databases/SQL Databases, Non-Relational Databases/NoSQL 
+Databases, and NewSQL Databases respectively?
+Here is a non-exhaustive list of software systems that uses Relational Databases/SQL Databases, Non-Relational 
+Databases/NoSQL Databases, and NewSQL Databases respectively:
+1. Relational Databases (aka SQL Databases) 
+   -> all SQL implementations (see the above section 'What are SQL implementations and SQL dialects?' for what 
+      these are)
+
+2. Non-Relational Databases (aka NoSQL Databases or 'Not only SQL' Databases) 
+   => There are a few subtypes of Non-Relational Databases (aka NoSQL Databases or 'Not only SQL' Databases):
+     -> Graph-based: Amazon Neptune, Neo4j
+     -> Key-value-based: Memcached, Redis, Coherence
+     -> Column-based: Hbase, Big Table, Accumulo, Cassandra
+     -> Document-based: MongoDB, CouchDB, Cloudant
+
+3. NewSQL Database 
+   -> CockroachDB
+
+(Note: 
+ - DBMSes that uses Relational Databases (aka SQL Databases) are also known as Relational DBMSes, DBMSes that 
+   uses Nonrelational Databases (aka NoSQL Databases or 'Not only SQL' Databases) are controlled by Nonrelational 
+   DBMSes, while DBMSes NewSQL Databases called NewSQL DBMSes
+)
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+What is MySQL (SQL implementation)?
+MySQL (SQL implementation) is a Relational Database Management System (RDBMS) that manipuates Relational Databases 
+in servers.
+
+MySQL is an open-source, Relational Database Management System (RBDMS) that stores data in a structured format using 
+rows and columns. It’s software that enables users to create, manage, and manipulate Relational Databases (aka SQL
+Databases). 
+
+
+MySQL keywords/commands documentation: https://dev.mysql.com/doc/refman/8.4/en/keywords.html (MySQL)
+
+
+Source: https://www.geeksforgeeks.org/what-is-mysql/ (GeekforGeeks)
+
+
+
+
+
+
+Or talk about how to manual put a databse in MySQL server (i think have its in vid 17 of the playlist) in the 
+MySQL workbench?
