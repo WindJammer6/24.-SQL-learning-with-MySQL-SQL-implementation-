@@ -1,4 +1,4 @@
-# 23.-SQL-learn-with-MySQL-SQL-implementation-
+# 23.-SQL-learn-with-MySQL-SQL-implementation- <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85be1fac-45e8-4f67-88d0-cc3d042fbd01_935x935.png" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql)
 
 After working with Python for quite a while, I wanted to adopt a second programming language to further hone my programming skills. In addition to this, a friend of mine (Github account: [WolfPark](https://github.com/wolfparktaerim)) always wanted to create a video game of his own, and recommended me one of the many powerful game development engines/framework, [Unity](https://unity.com/download). However, the main issue is that Unity uses the C# language, rather than Python. Hence, I decided to take this opportunity to while helping out on making a video game on Unity, to also learn the C# programming language, as well as some of the Unity C# syntax.
 
