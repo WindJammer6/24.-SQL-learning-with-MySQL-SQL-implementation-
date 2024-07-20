@@ -19,9 +19,9 @@ Here is a directory to the explanations of what each folder contains in this SQL
 1. [SQL learn with My SQL (SQL implementation) code archives)](#sqlwithmysqlcodearchives)  
    + ['1. About_these_MySQL_(SQL_implentation)_tutorials.txt' text file](#mysqlabouttutorials)
    + ['2. How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt' text file](#mysqlhowsetuprdbandruninvscode)
-   + [1. MySQL (SQL implementation) basic syntax](#mysqlbasics)
-   + [2. MySQL (SQL implementation) modifying Relational Databases](#mysqlmodifyingrdb)
-   + [3. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](#mysqlwithpython)
+   + [3. MySQL (SQL implementation) basic syntax](#mysqlbasics)
+   + [4. MySQL (SQL implementation) modifying Relational Databases](#mysqlmodifyingrdb)
+   + [5. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](#mysqlwithpython)
    + ['MySQL_(SQL_implementation)_query_that_creates_the_movies_relational_database_in_a_MySQL_(SQL_implementation)_server.sql' SQL file](#mysqlmoviesrdb)
    + ['movies_relational_database_visual_in_Microsoft_Excel.xlsx' Microsoft Excel file](#mysqlmoviesrdbexcel)
 2. ['What_is_SQL_and_what_are_databases_and_what_is_MySQL.txt' text file](#whatissqlanddatabasesandmysql)  
@@ -29,7 +29,7 @@ Here is a directory to the explanations of what each folder contains in this SQL
 
 <br>
 
-## [SQL learn with My SQL (SQL implementation) code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code)) <a name = "csharpenvironmentinvscode"></a> [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+## [SQL learn with My SQL (SQL implementation) code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code)) <a name = "sqlwithmysqlcodearchives"></a> 
 
 This is the C# environment that you need to set up in VS code in order to run your C# files in VS code. In this C# environment in VS code folder, you can modify the 'run_code_here.cs' C# file to whatever C# code you want to run in VS code. Don't modify anything else in this C# environment in VS code folder as it might introduce bugs to your C# environment in VS code.
 
