@@ -4,15 +4,12 @@ https://www.youtube.com/playlist?list=PL41lfR-6DnOokmJfmYj2hdVMKVGIcF7__ (Youtub
 'MySQL for Beginners')
 
 
-Note that while in the Youtube video by Quentin Watt Tutorials, titled 'MySQL for Beginners' used MAMP and PHP as the
-IDE, I used VScode instead.
-
 Deviations of these tutorials from the Youtube playlist by Quentin Watt Tutorials, titled 'MySQL for Beginners':
-- In the Youtube video by Quentin Watt Tutorials, titled 'MySQL for Beginners' used MAMP and PHP as the
+- In the Youtube playlist by Quentin Watt Tutorials, titled 'MySQL for Beginners' used MAMP and PHP as the
   IDE, but I used VScode instead (refer to the file 'Setting_up_MySQL_(SQL_implementation)_in_VScode.txt' for how to set 
   up MySQL with VScode).
-- In the Youtube video by Quentin Watt Tutorials, titled 'MySQL for Beginners' used a pre-made Relational Database by 
-  Quentin, but I used a 'movies' Relational Database provided by codebasics in their Youtube video, titled 'SQL Tutorial 
+- In the Youtube playlist by Quentin Watt Tutorials, titled 'MySQL for Beginners' used a pre-made Relational Database by 
+  Quentin, but I used a 'moviesdb' Relational Database provided by codebasics in their Youtube video, titled 'SQL Tutorial 
   for Beginners | MySQL Tutorial' (link: https://youtu.be/Rm0xH2Vpfi0?si=QVr3mUdqUGLHN84R) 
 
 
@@ -27,6 +24,9 @@ https://www.youtube.com/watch?v=91iNR0eG8kE&list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAV
 Tech with Tim, titled: 'Python MySQL Tutorial - Creating Tables, Inserting & Selecting')
 
 
-Note that while these tutorials from the Youtube videos by Tech with Tim used the 'mysql.connector' (Python library), 
-but it dosen't work for my computer for some reason so I used the PyMySQL (Python library) instead, which works for my 
-computer and is relatively similar to the 'mysql.connector' (Python library) in functionality and syntax.
+Deviations of these tutorials from the Youtube videos by Tech with Tim, titled 'Python MySQL Tutorial - Setup & Basic Queries 
+(w/ MySQL Connector)' and 'Python MySQL Tutorial - Creating Tables, Inserting & Selecting':
+- In these Youtube videos by Tech with Tim, titled 'Python MySQL Tutorial - Setup & Basic Queries (w/ MySQL Connector)' and 
+  'Python MySQL Tutorial - Creating Tables, Inserting & Selecting' used the 'mysql.connector' (Python library), but it dosen't 
+  work for my computer for some reason so I used the PyMySQL (Python library) instead, which works for my computer and is 
+  relatively similar to the 'mysql.connector' (Python library) in functionality and syntax.
