@@ -57,7 +57,7 @@ The MySQL (SQL implementation) files in this folder can only be used after setti
 
 <br> 
 
-**['1. About_these_MySQL_(SQL_implentation)_tutorials.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/1.%20About_these_MySQL_(SQL_implentation)_tutorials.txt) <a name = "mysqlabouttutorials"></a>**  
+**[1. 'About_these_MySQL_(SQL_implentation)_tutorials.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/1.%20About_these_MySQL_(SQL_implentation)_tutorials.txt) <a name = "mysqlabouttutorials"></a>**  
 This file contains information about these MySQL (SQL implementation) files, the sources of the information they are taken from: https://www.youtube.com/playlist?list=PL41lfR-6DnOokmJfmYj2hdVMKVGIcF7__ (Quentin Watt Tutorials), https://www.youtube.com/watch?v=3vsC05rxZ8c&list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-&index=1 (Tech with Tim) and 
 https://www.youtube.com/watch?v=91iNR0eG8kE&list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-&index=2 (Tech with Tim) and the deviations of these MySQL (SQL implementation) files from it (see above in the section 'However, I did have some deviation for these tutorial folders from their sources').
 
