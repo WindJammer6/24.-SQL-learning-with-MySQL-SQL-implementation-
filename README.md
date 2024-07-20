@@ -21,7 +21,7 @@ Here is a directory to the explanations of what each folder contains in this SQL
    + [2. MySQL (SQL implementation) basic syntax](#mysqlbasics)
    + [3. MySQL (SQL implementation) modifying Relational Databases](#mysqlmodifyingrdb)
    + [4. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](#mysqlwithpython)
-   + ['MySQL_(SQL_implementation)_query_that_creates_the_movies_relational_database_in_a_MySQL_(SQL_implementation)_server.sql' SQL file](#mysqlmoviesrdb)
+   + ['MySQL_(SQL_implementation)_query_that_creates_the_movies_relational_database_in_a_MySQL_(SQL_implementation)_server.sql' MySQL (SQL implementation) file](#mysqlmoviesrdb)
    + ['movies_relational_database_visual_in_Microsoft_Excel.xlsx' Microsoft Excel file](#mysqlmoviesrdbexcel)
 2. ['What_is_SQL_and_what_are_databases_and_what_is_MySQL.txt' text file](#whatissqlanddatabasesandmysql)  
 3. ['Setting_up_MySQL_(SQL_implementation)_in_VScode.txt' text file](#setupmysqlinvscode)
