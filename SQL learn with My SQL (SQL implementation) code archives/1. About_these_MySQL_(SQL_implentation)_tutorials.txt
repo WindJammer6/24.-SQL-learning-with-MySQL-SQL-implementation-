@@ -1,6 +1,6 @@
 The '1. MySQL (SQL implementation) basic syntax' tutorial folder and '2. MySQL (SQL implementation) modifying Relational 
 Databases' tutorial folder are following from this Youtube playlist: 
-https://www.youtube.com/playlist?list=PL41lfR-6DnOokmJfmYj2hdVMKVGIcF7__ (Youtube video by Quentin Watt Tutorials, titled 
+https://www.youtube.com/playlist?list=PL41lfR-6DnOokmJfmYj2hdVMKVGIcF7__ (Youtube playlist by Quentin Watt Tutorials, titled 
 'MySQL for Beginners')
 
 
