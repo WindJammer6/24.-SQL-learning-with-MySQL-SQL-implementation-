@@ -10,7 +10,7 @@ Hence, the creation of this Github repository to document my learning journey of
 
 Apparently while SQL is a programming language, it is different from other well known programming languages by being a fourth-generation programming language (4GL), while other well known programming languages (Python, Java, JavaScript, C++, etc.) are third-generation programming languages (3GL).
 
-Apart from the '[SQL learn with My SQL (SQL implementation) code archives](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives)' folder's sources where I learnt Unity C# syntax, I also made reference from this popular 'CS50x 2024 - Lecture 7 - SQL' Youtube tutorial video (link: https://www.youtube.com/watch?v=1RCMYG8RUSE&t=2668s (CS50)) to get a general grasp on how SQL, Databases, Database Management Systems (DBMS) and SQL implementations (including MySQL) work, which helped tremondously in my understanding of SQL.
+Apart from the '[SQL learn with My SQL (SQL implementation) code archives](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives)' folder's sources where I learnt SQL with MySQL (SQL implementation), I also made reference from this popular 'CS50x 2024 - Lecture 7 - SQL' Youtube tutorial video (link: https://www.youtube.com/watch?v=1RCMYG8RUSE&t=2668s (CS50)) to get a general grasp on how SQL, Databases, Database Management Systems (DBMS) and SQL implementations (including MySQL) work, which helped tremondously in my understanding of SQL.
 
 <br>
 
