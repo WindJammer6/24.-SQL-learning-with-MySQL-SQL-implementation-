@@ -1,4 +1,4 @@
-# 23.-SQL-learn-with-MySQL-SQL-implementation- <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85be1fac-45e8-4f67-88d0-cc3d042fbd01_935x935.png" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql)
+# 23.-SQL-learning-with-MySQL-SQL-implementation- <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85be1fac-45e8-4f67-88d0-cc3d042fbd01_935x935.png" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql)
 
 I had a few school projects that required me to deal with databases, including an FAQ forum and a Telegram Chatbot to assist professors in teaching novice programmers.
 
