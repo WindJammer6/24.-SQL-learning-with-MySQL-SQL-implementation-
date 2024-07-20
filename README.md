@@ -17,7 +17,7 @@ Apart from the '[SQL learn with My SQL (SQL implementation) code archives](https
 ## Table of Contents:
 Here is a directory to the explanations of what each folder contains in this SQL learn with MySQL (SQL implementation) learning journey repository:
 1. [SQL learn with My SQL (SQL implementation) code archives)](#sqlwithmysqlcodearchives)  
-   + ['1. About_these_MySQL_(SQL_implentation)_tutorials.txt' text file](#mysqlabouttutorials)
+   + [1. 'About_these_MySQL_(SQL_implentation)_tutorials.txt' text file](#mysqlabouttutorials)
    + [2. MySQL (SQL implementation) basic syntax](#mysqlbasics)
    + [3. MySQL (SQL implementation) modifying Relational Databases](#mysqlmodifyingrdb)
    + [4. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](#mysqlwithpython)
