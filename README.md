@@ -1,15 +1,16 @@
 # 23.-SQL-learn-with-MySQL-SQL-implementation- <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85be1fac-45e8-4f67-88d0-cc3d042fbd01_935x935.png" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql)
 
-After working with Python for quite a while, I wanted to adopt a second programming language to further hone my programming skills. In addition to this, a friend of mine (Github account: [WolfPark](https://github.com/wolfparktaerim)) always wanted to create a video game of his own, and recommended me one of the many powerful game development engines/framework, [Unity](https://unity.com/download). However, the main issue is that Unity uses the C# language, rather than Python. Hence, I decided to take this opportunity to while helping out on making a video game on Unity, to also learn the C# programming language, as well as some of the Unity C# syntax.
+I had a few school projects that required me to deal with databases, including an FAQ forum and a Telegram Chatbot to assist professors in teaching novice programmers.
 
-Apparently the C# programming language is also an object-oriented programming language, like Python.
+I also have been wanting to learn SQL (or any of its implementations) for a while for the database aspect in Full-stack website developments. 
+
+Initially, I wanted to learn SQLite as the SQL implementation, but I quickly learnt that it is serverless-based, which is not a typical SQL implementation, so instead I decided to learn MySQL as the SQL implementation.
+
+Hence, the creation of this Github repository to document my learning journey of SQL.
+
+Apparently while SQL is a programming language, it is different from other well known programming languages by being a fourth-generation programming language (4GL), while other well known programming languages (Python, Java, JavaScript, C++, etc.) are third-generation programming languages (3GL).
 
 Apart from the '[Unity C# Syntax learn code archives](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20learn%20code%20archives)' folder's sources where I learnt Unity C# syntax, I also made reference from this popular 'The Unity Tutorial For Complete Beginners' Youtube tutorial video (link: https://www.youtube.com/watch?v=XtQMytORBmM&t=1s (Game Maker's Toolkit)) to get a general grasp on how the Unity editor/software looks like and work, which helped tremondously in my understanding of the Unity editor/software.
-
-An example of what this 'The Unity Tutorial For Complete Beginners' Unity Youtube tutorial video by Game Maker's Toolkit taught, on the terminology of the 4 most important panels of the Unity editor/software:
-<p align="center"> 
-  <img src="https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/blob/main/Image%20and%20labelling%20of%20the%204%20important%20panels%20of%20the%20Unity%20software.png"  width="350" height="200">
-</p>
 
 <br>
 
