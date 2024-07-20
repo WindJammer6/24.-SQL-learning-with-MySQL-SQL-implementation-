@@ -18,41 +18,34 @@ Apart from the '[Unity C# Syntax learn code archives](https://github.com/WindJam
 Here is a directory to the explanations of what each folder contains in this SQL learn with MySQL (SQL implementation) learning journey repository:
 1. [SQL learn with My SQL (SQL implementation) code archives)](#sqlwithmysqlcodearchives)  
    + ['1. About_these_MySQL_(SQL_implentation)_tutorials.txt' text file](#mysqlabouttutorials)
-   + ['2. How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt' text file](#mysqlhowsetuprdbandruninvscode)
-   + [3. MySQL (SQL implementation) basic syntax](#mysqlbasics)
-   + [4. MySQL (SQL implementation) modifying Relational Databases](#mysqlmodifyingrdb)
-   + [5. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](#mysqlwithpython)
+   + [2. MySQL (SQL implementation) basic syntax](#mysqlbasics)
+   + [3. MySQL (SQL implementation) modifying Relational Databases](#mysqlmodifyingrdb)
+   + [4. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](#mysqlwithpython)
    + ['MySQL_(SQL_implementation)_query_that_creates_the_movies_relational_database_in_a_MySQL_(SQL_implementation)_server.sql' SQL file](#mysqlmoviesrdb)
    + ['movies_relational_database_visual_in_Microsoft_Excel.xlsx' Microsoft Excel file](#mysqlmoviesrdbexcel)
 2. ['What_is_SQL_and_what_are_databases_and_what_is_MySQL.txt' text file](#whatissqlanddatabasesandmysql)  
-3. ['Setting_up_MySQL_(SQL_implementation)_in_VScode.txt' text file](#setupmysqlinvscode)  
-
-<br>
-
-## [1. SQL learn with My SQL (SQL implementation) code archives](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/3.%20MySQL%20(SQL%20implementation)%20basic%20syntax) <a name = "sqlwithmysqlcodearchives"></a> 
-
-This is the C# environment that you need to set up in VS code in order to run your C# files in VS code. In this C# environment in VS code folder, you can modify the 'run_code_here.cs' C# file to whatever C# code you want to run in VS code. Don't modify anything else in this C# environment in VS code folder as it might introduce bugs to your C# environment in VS code.
-
-This is Youtube video where I learnt how to set up this C# environment in VS code, and how to use it to run C# code in VS code: https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials)
-
-I'm not sure if this C# environment works for other IDE/compilers... I have only ever used it for VS code and it works for VS code.
-
-*Source(s):*  
-+ https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials) (Youtube video labelled 'How to Run C# in Visual Studio Code on Windows 10 2022' by Tech Decode Tutorials) for the setting up c# in vscode section stuffs   
+3. ['Setting_up_MySQL_(SQL_implementation)_in_VScode.txt' text file](#setupmysqlinvscode)
+4. ['How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt' text file](#howsetupmysqlrdbandruninvscode)
 
 <br>
 
 ## [1. SQL learn with My SQL (SQL implementation) code archives](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives) <a name = "sqlwithmysqlcodearchives"></a> 
 
-This folder contains all the MySQL (SQL implementation) files during my SQL programming language with MySQL (SQL implementation) learning journey segregated into 3 folders, '[3. MySQL (SQL implementation) basic syntax](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/3.%20MySQL%20(SQL%20implementation)%20basic%20syntax)', '[4. MySQL (SQL implementation) modifying Relational Databases](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/4.%20MySQL%20(SQL%20implementation)%20modifying%20Relational%20Databases)' and '[5. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/5.%20MySQL%20(SQL%20implementation)%20integrated%20with%20Python%20(as%20backend)%20using%20PyMySQL%20(Python%20library))' and 2 text files '['1. About_these_MySQL_(SQL_implentation)_tutorials.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/1.%20About_these_MySQL_(SQL_implentation)_tutorials.txt)' and '['2. How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/2.%20How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL%20implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt)', organised based on the programming concept of each MySQL (SQL implementation) file. Most of the information in the MySQL (SQL implementation) files in this folder is taken from this Youtube playlist: https://www.youtube.com/playlist?list=PL41lfR-6DnOokmJfmYj2hdVMKVGIcF7__ (Quentin Watt Tutorials), while I split its lessons myself to the individual folders.
+This folder contains all the MySQL (SQL implementation) files during my SQL programming language with MySQL (SQL implementation) learning journey segregated into 3 folders, '[3. MySQL (SQL implementation) basic syntax](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/3.%20MySQL%20(SQL%20implementation)%20basic%20syntax)', '[4. MySQL (SQL implementation) modifying Relational Databases](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/4.%20MySQL%20(SQL%20implementation)%20modifying%20Relational%20Databases)' and '[5. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/5.%20MySQL%20(SQL%20implementation)%20integrated%20with%20Python%20(as%20backend)%20using%20PyMySQL%20(Python%20library))' and 2 text files '['1. About_these_MySQL_(SQL_implentation)_tutorials.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/1.%20About_these_MySQL_(SQL_implentation)_tutorials.txt)' and '['2. How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/2.%20How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL%20implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt)', organised based on the programming concept of each MySQL (SQL implementation) file. Most of the information from the first and second folders, '[3. MySQL (SQL implementation) basic syntax](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/3.%20MySQL%20(SQL%20implementation)%20basic%20syntax)', '[4. MySQL (SQL implementation) modifying Relational Databases](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/4.%20MySQL%20(SQL%20implementation)%20modifying%20Relational%20Databases)', is taken from this Youtube playlist: https://www.youtube.com/playlist?list=PL41lfR-6DnOokmJfmYj2hdVMKVGIcF7__ (Quentin Watt Tutorials) and the information from the third folder is taken from these Youtube videos: https://www.youtube.com/watch?v=3vsC05rxZ8c&list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-&index=1 (Tech with Tim) and https://www.youtube.com/watch?v=91iNR0eG8kE&list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-&index=2 (Tech with Tim). While in all 3 folders I split the respective lessons myself to the individual folders.
 
-However, I did have some deviation of these tutorials from the Youtube playlist by Quentin Watt Tutorials, titled 'MySQL for Beginners':
+However, I did have some deviation for these tutorial folders from their sources:  
+For deviation for the first and second tutorial folders from the Youtube playlist by Quentin Watt Tutorials, titled 'MySQL for Beginners':  
 - In the Youtube playlist by Quentin Watt Tutorials, titled 'MySQL for Beginners' used MAMP and PHP as the
   IDE, but I used VScode instead (refer to the file 'Setting_up_MySQL_(SQL_implementation)_in_VScode.txt' for how to set 
   up MySQL with VScode).
 - In the Youtube playlist by Quentin Watt Tutorials, titled 'MySQL for Beginners' used a pre-made Relational Database by 
   Quentin, but I used a 'moviesdb' Relational Database provided by codebasics in their Youtube video, titled 'SQL Tutorial 
-  for Beginners | MySQL Tutorial' (link: https://youtu.be/Rm0xH2Vpfi0?si=QVr3mUdqUGLHN84R) 
+  for Beginners | MySQL Tutorial' (link: https://youtu.be/Rm0xH2Vpfi0?si=QVr3mUdqUGLHN84R)
+
+For deviation for the third tutorial folder from the Youtube videos by Tech with Tim, titled 'Python MySQL Tutorial - Setup & Basic Queries (w/ MySQL Connector)' and 'Python MySQL Tutorial - Creating Tables, Inserting & Selecting':  
+- In these Youtube videos by Tech with Tim, titled 'Python MySQL Tutorial - Setup & Basic Queries (w/ MySQL Connector)' and 'Python MySQL Tutorial - Creating Tables, Inserting & Selecting' used 
+  the 'mysql.connector' (Python library), but it dosen't work for my computer for some reason so I used the PyMySQL (Python library) instead, which works for my computer and is relatively 
+  similar to the 'mysql.connector' (Python library) in functionality and syntax.
 
 *How to use the MySQL (SQL implementation) files in this folder?*  
 The MySQL (SQL implementation) files in this folder can only be used after setting up VS code, where instructions can be found from the '[3. 'Setting_up_MySQL_(SQL_implementation)_in_VScode.txt' text file)](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/Setting_up_MySQL_(SQL_implementation)_in_VScode.txt)', setting up the 'moviesdb' MySQL (SQL implementation) Relational Database in a MySQL (SQL implementation) server in the 'MySQL WorkBench' MySQL-specific MySQL (SQL implementation) server management tool/IDE/application, and running these MySQL (SQL implementation) files, where instructions can be found from the ''.
@@ -60,49 +53,59 @@ The MySQL (SQL implementation) files in this folder can only be used after setti
 <br> 
 
 **['1. About_these_MySQL_(SQL_implentation)_tutorials.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/1.%20About_these_MySQL_(SQL_implentation)_tutorials.txt) <a name = "mysqlabouttutorials"></a>**  
-This folder contains all the C# files that deals with the basic syntax and structure in the C# programming language.
+This file contains information about these MySQL (SQL implementation) files, the sources of the information they are taken from: https://www.youtube.com/playlist?list=PL41lfR-6DnOokmJfmYj2hdVMKVGIcF7__ (Quentin Watt Tutorials), https://www.youtube.com/watch?v=3vsC05rxZ8c&list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-&index=1 (Tech with Tim) and 
+https://www.youtube.com/watch?v=91iNR0eG8kE&list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-&index=2 (Tech with Tim) and the deviations of these MySQL (SQL implementation) files from it (see above in the section 'However, I did have some deviation for these tutorial folders from their sources').
 
-**['2. How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/2.%20How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL%20implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt) <a name = "mysqlhowsetuprdbandruninvscode"></a>**  
-This folder contains all the C# files that deals with the built-in data structures in the C# programming language.
+**[2. MySQL (SQL implementation) basic syntax](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/3.%20MySQL%20(SQL%20implementation)%20basic%20syntax) <a name = "mysqlbasics"></a>**  
+This folder contains all the MySQL (SQL implementation) files that deals with the basic syntax and structure in the SQL programming language with MySQL (SQL implementation).
 
-**[3. MySQL (SQL implementation) basic syntax](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/3.%20MySQL%20(SQL%20implementation)%20basic%20syntax) <a name = "mysqlbasics"></a>**  
-This folder contains all the C# files that deals with Object-Oriented Programming (OOP) concept in the C# programming language.
+**[3. MySQL (SQL implementation) modifying Relational Databases](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/4.%20MySQL%20(SQL%20implementation)%20modifying%20Relational%20Databases) <a name = "mysqlmodifyingrdb"></a>**  
+This folder contains all the MySQL (SQL implementation) files that deals with modifying Relational Databases (aka SQL Databases), in the SQL programming language with MySQL (SQL implementation).
 
-**[4. MySQL (SQL implementation) modifying Relational Databases](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/4.%20MySQL%20(SQL%20implementation)%20modifying%20Relational%20Databases) <a name = "mysqlmodifyingrdb"></a>**  
-This folder contains all the C# files that deals with some guided mini-projects, from the same [freeCodeCamp Youtube video](https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s), including, creating a calculator, a mad-lib game, and a guessing game, in the C# programming language.
-
-**[5. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/5.%20MySQL%20(SQL%20implementation)%20integrated%20with%20Python%20(as%20backend)%20using%20PyMySQL%20(Python%20library)) <a name = "mysqlmoviesrdbexcel"></a>**  
-This file contains information from the Youtube video on how to set up a C# environment in VS code, and how to use it to run C# code in VS code. (link: https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials))
-
-This file is in this folder, rather than the previous folder, '[C# environment in VS code (to run C# code)](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code))' because it might introduce bugs to the '[C# environment in VS code (to run C# code)](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/C%23%20environment%20in%20VS%20code%20(to%20run%20C%23%20code))' folder if this file is added to it.
+**[4. MySQL (SQL implementation) integrated with Python (as backend) using PyMySQL (Python library)](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/tree/main/SQL%20learn%20with%20My%20SQL%20(SQL%20implementation)%20code%20archives/5.%20MySQL%20(SQL%20implementation)%20integrated%20with%20Python%20(as%20backend)%20using%20PyMySQL%20(Python%20library)) <a name = "mysqlmoviesrdbexcel"></a>**  
+This folder contains all the MySQL (SQL implementation) files that deals with the integration of the SQL programming language with MySQL (SQL implementation) to Python (as backend) using the [PyMySQL (Python library)](https://pypi.org/project/PyMySQL/).
 
 <br>
 
 *Source(s):*  
-+ https://www.youtube.com/watch?v=GhQdlIFylQ8&t=12271s (freeCodeCamp) (Youtube video labelled 'C# Tutorial - Full Course for Beginners' by freeCodeCamp)  
-+ https://www.youtube.com/watch?v=1BYEC1ZENSg&t=1s (Matt Noone) (Youtube short labelled 'How to use namespaces in C#?' by Matt Noone)
-+ https://stackoverflow.com/questions/11427223/what-is-the-difference-between-a-class-library-and-a-namespace (Stack Overflow) (Stack Overflow discussion on 'What is the difference between a class library and a namespace?')  
-+ https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials) (Youtube video labelled 'How to Run C# in Visual Studio Code on Windows 10 2022' by Tech Decode Tutorials) for the setting up c# in vscode section stuffs  
++ https://www.youtube.com/playlist?list=PL41lfR-6DnOokmJfmYj2hdVMKVGIcF7__ (Youtube playlist by Quentin Watt Tutorials, titled 'MySQL for Beginners')
++ https://www.youtube.com/watch?v=3vsC05rxZ8c&list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-&index=1 (Youtube video by Tech with Tim, titled: 'Python MySQL Tutorial - Setup & Basic Queries (w/ MySQL Connector)')
++ https://www.youtube.com/watch?v=91iNR0eG8kE&list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-&index=2 (Youtube video by Tech with Tim, titled: 'Python MySQL Tutorial - Creating Tables, Inserting & Selecting')
   
 <br>
 
 ## [2. 'What_is_SQL_and_what_are_databases_and_what_is_MySQL.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/What_is_SQL_and_what_are_databases_and_what_is_MySQL.txt) <a name = "whatissqlanddatabasesandmysql"></a> 
-This is the Unity C# syntax learn project folder, which you can treat as the 'environment' to run the Unity C# scripts on the Unity editor/software, since these Unity C# scripts cannot be run on other IDEs, such as VS code, only in the Unity editor/software's terminal as a Unity project.
-
-I did not refer to any sources in order to create this folder since the Unity editor/software automatically generates a Unity project folder like this one whenever you create a Unity game, which stores all the information of your Unity game, and allows you to run/edit your Unity game and the C# scripts inside it in the Unity editor/software when you import this Unity project folder into the Unity editor/software.
-
-Refer to my seperate repository, [19.-2D-Unity-Game](https://github.com/WindJammer6/19.-2D-Unity-Game) to see what does each seperate folder within this '[Unity C# syntax learn project folder](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project)' does. And also, how to download this '[Unity C# syntax learn project folder](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project)' 'Unity project' (or any other Unity projects) from Github, as well as using it in the Unity editor/software's terminal, in the section *'How to download and use this Unity source code on Github in your Unity editor/software?'* in *'Technicalities between Unity and Github'* of the repository's 'README.md' file.
+This is the file that explains a comprehensive background of the SQL programming language, how it is related to Databases, the types of Databases, their respective Database Management Systems (DBMS), and the different types of SQL implementations (including MySQL (SQL implementation), etc.
 
 *Source(s):*  
-nil
++ https://www.geeksforgeeks.org/what-is-sql/ (GeekforGeeks) (for what is SQL)
++ https://learnsql.com/blog/what-is-sql-query/ (LearnSQL) (for what is a SQL query)
++ https://www.geeksforgeeks.org/what-is-database/ (GeekforGeeks) (for what is a Database)
++ https://www.geeksforgeeks.org/what-is-database/ (GeekforGeeks) (for the different types of databases)
++ https://www.geeksforgeeks.org/introduction-to-nosql/ (GeekforGeeks) (for the definition of NoSQL Database)
++ https://blog.leanxcale.com/distributed-database-concepts/newsql-databases/ (Leanxcale) (for the definition of NewSQL
+Database)
++ https://www.geeksforgeeks.org/what-is-mysql/ (GeekforGeeks) (for what is MySQL (SQL implementation))
 
 <br>
 
 ## [3. 'Setting_up_MySQL_(SQL_implementation)_in_VScode.txt' text file)](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/Setting_up_MySQL_(SQL_implementation)_in_VScode.txt) <a name = "setupmysqlinvscode"></a>
-This folder contains all the C# files during my Unity C# syntax learning journey, organised roughly according to the order of the Unity's Youtube playlist's videos on Unity C# syntax. (link: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity)) Most of the information in this folder is taken from this Unity Youtube playlist: https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity), with a lot of assistance from [ChatGPT](https://chat.openai.com/) and Googling due to how poor Unity's Youtube videos tutorials on Unity C# syntax are at teaching haiz... I did skip some of the videos from the Unity Youtube playlist as well, did not follow all of them exactly.
+This file contains instructions on how to set up MySQL (SQL implementation) with VS code, such as how to download MySQL (SQL implementation) from the MySQL (SQL implementation) official website: https://www.mysql.com/downloads/, create a MySQL (SQL implementation) server in MySQL Workbench, a MySQL-specific MySQL (SQL implementation) server management tool/IDE/application, and establish a connection link between the created MySQL (SQL implementation) server in MySQL Workbench to VS code.
 
-*How to use the C# files in this folder?*  
-The C# files in this folder needs to be used along with the '[Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project)' folder in order to run them in the Unity editor/software's terminal, since these Unity C# scripts cannot be run on other IDEs, such as VS code. (which these C# files already are added to the [Unity C# Syntax learn Unity project](https://github.com/WindJammer6/16.-Csharp-and-Unity-Learning/tree/main/Unity%20C%23%20Syntax%20learn%20Unity%20project))
+*Source(s):*  
++ https://www.mysql.com/downloads/ (MySQL)
++ https://youtu.be/Rm0xH2Vpfi0?si=QVr3mUdqUGLHN84R (Youtube video by codebasics, titled: 'SQL Tutorial for Beginners | MySQL Tutorial')
++ https://guidingcode.com/use-mysql-with-visual-studio-code/ (GuidingCode) 
++ https://superuser.com/questions/1438960/error-er-supported-auth-mode-client-does-not-support-authentication-protocal-r (superuser discussion on: 'Error: ER_SUPPORTED_AUTH_MODE: Client does not support authentication protocal requested by server consider upgrading MySQL client')
+
+<br>
+
+## [4. 'How_to_set_up_a_Relational_Database_in_an_empty_MySQL_(SQL implementation)_server_and_how_to_run_MySQL_(SQL_implementation)_queries_in_VScode.txt' text file](https://github.com/WindJammer6/23.-SQL-learn-with-MySQL-SQL-implementation-/blob/main/Setting_up_MySQL_(SQL_implementation)_in_VScode.txt) <a name = "howsetupmysqlrdbandruninvscode"></a>
+This is the C# environment that you need to set up in VS code in order to run your C# files in VS code. In this C# environment in VS code folder, you can modify the 'run_code_here.cs' C# file to whatever C# code you want to run in VS code. Don't modify anything else in this C# environment in VS code folder as it might introduce bugs to your C# environment in VS code.
+
+This is Youtube video where I learnt how to set up this C# environment in VS code, and how to use it to run C# code in VS code: https://www.youtube.com/watch?v=CO4BGZOuUkM (Tech Decode Tutorials)
+
+I'm not sure if this C# environment works for other IDE/compilers... I have only ever used it for VS code and it works for VS code.
 
 *Source(s):*  
 + https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B (Unity) (Youtube playlist labelled 'Beginner-friendly scripting tutorials' by Unity, consisting of various videos teaching the basic C# syntax for Unity) 
