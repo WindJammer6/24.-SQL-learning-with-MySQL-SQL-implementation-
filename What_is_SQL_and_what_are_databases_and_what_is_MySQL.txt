@@ -184,11 +184,3 @@ MySQL keywords/commands documentation: https://dev.mysql.com/doc/refman/8.4/en/k
 
 
 Source: https://www.geeksforgeeks.org/what-is-mysql/ (GeekforGeeks)
-
-
-
-
-
-
-Or talk about how to manual put a databse in MySQL server (i think have its in vid 17 of the playlist) in the 
-MySQL workbench?
